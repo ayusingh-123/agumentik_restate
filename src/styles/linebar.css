@@ -1,0 +1,7 @@
+.footer__redes{
+    display: flex;
+    flex-direction: row;
+    margin-left: -10px;
+    margin-top: 120px;
+    margin-bottom: 80px;
+}
